@@ -10,4 +10,5 @@ function index(array, n){
        }
       
     }
-    
+    return-1
+  }
