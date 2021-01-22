@@ -1,0 +1,1 @@
+checkAlive=h=>h>0
