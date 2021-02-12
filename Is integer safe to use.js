@@ -1,0 +1,1 @@
+SafeInteger = Number.isSafeInteger;
