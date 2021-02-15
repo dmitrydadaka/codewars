@@ -1,0 +1,1 @@
+const isReallyNaN = x => x !== x
